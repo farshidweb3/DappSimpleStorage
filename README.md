@@ -1,6 +1,8 @@
 # simple Smart Contract Interaction with MetaMask and Web3
 
-[![Watch the video](assets/metamask.webp)](assets/dapp.mp4)
+https://www.youtube.com/watch?v=6JwktfAvNZg
+
+[![Watch the video](assets/metamask.webp)]([assets/dapp.mp4](https://www.youtube.com/watch?v=6JwktfAvNZg))
 
 This repository demonstrates the interaction between a smart contract deployed on a blockchain network and a frontend application using MetaMask and Web3.js. The smart contract is written in Solidity, and the frontend application allows users to connect their MetaMask wallet, read data from the contract, and write data to the contract.
 
