@@ -1,6 +1,7 @@
 # simple Smart Contract Interaction with MetaMask and Web3
 
-Watch the video
+Watch the video:
+
 https://www.youtube.com/watch?v=6JwktfAvNZg
 
 [![Watch the video](assets/metamask.webp)]([assets/dapp.mp4](https://www.youtube.com/watch?v=6JwktfAvNZg))
