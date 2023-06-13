@@ -12,7 +12,7 @@ This repository demonstrates the interaction between a smart contract deployed o
 
 ## Deployment
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/farshidweb3/DappSimpleStorage`
 2. Install dependencies: `npm install`
 3. Start the local development server: `npm start`
 4. Open the application in your web browser: `http://localhost:3000`
